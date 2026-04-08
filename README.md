@@ -1,16 +1,6 @@
-# STARTER-jpa01
+# jpa01-surew1n
 
-* TODO: Change the title of this README (above)
-  in the text `# STARTER-jpa01` above
-  to match the name of your repo, i. e., `jpa01-yourgithubid`, then delete
-  this TODO item.
-
-* TODO: Correct the "deployed at" link to app on Dokku (below)
-  then delete this TODO.  Replace it with 
-  a link to your running app on Dokku, e.g.
-  https://jpa01-cgaucho.dokku-14.cs.ucsb.edu
-
-Deployed at: https://jpa01-replace-me.dokku-xx.cs.ucsb.edu
+Deployed at: https://jpa01-surew1n.dokku-01.cs.ucsb.edu
 
 
 # About this repo
